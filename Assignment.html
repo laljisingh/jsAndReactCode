@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TextBox Assignment</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        background-color: rgba(89, 92, 89, 0.048);
+      }
+      .main {
+        background-color: antiquewhite;
+        width: 50%;
+        margin: 20px auto;
+        padding: 40px;
+        border: 2px solid green;
+        border-radius: 10px;
+        box-shadow: 5px 10px 3px 1px rgb(165, 153, 165);
+      }
+      .text {
+        border: 1px solid rgb(187, 67, 67);
+        /* border: none; */
+        padding: 10px;
+        border-radius: 5px;
+        width: 100%;
+        margin: auto auto;
+        border-radius: 2px;
+        font-size: 20px;
+        background-color: rgba(0, 255, 255, 0.082);
+      }
+      .button {
+        padding: 10px 30px;
+        border: none;
+        font-size: 20px;
+        margin: 10px 40%;
+        background-color: rgb(95, 6, 6);
+        color: aliceblue;
+        border-radius: 5px;
+        font-weight: 900;
+      }
+      .button:hover {
+        background-color: rgb(5, 83, 5);
+      }
+      li {
+        color: rgb(19, 48, 23);
+        font-size: 20px;
+        margin: 5px;
+        padding: 5px;
+        background-color: rgba(130, 33, 187, 0.438);
+      }
+      @media only screen and (max-width: 600px) {
+        .button{
+            margin: 20px auto;
+        }
+        .main{
+            padding: 30px;
+        }
+      }
+    </style>
+    <script>
+      function addPara() {
+        const para = document.createElement("p");
+        const li = document.createElement("li");
+        var inputVal = document.getElementById("text").value;
+        const node = document.createTextNode(inputVal);
+        const p = para.appendChild(li);
+        p.appendChild(node);
+        const element = document.getElementById("main");
+        element.appendChild(para);
+      }
+    </script>
+  </head>
+  <body>
+    <div class="main" id="main">
+      <input type="text" name="text" class="text" id="text" /><br />
+      <input
+        type="submit"
+        value="ADD"
+        onclick="addPara()"
+        value="ADD"
+        class="button"
+      />
+      <ol></ol>
+    </div>
+  </body>
+</html>
