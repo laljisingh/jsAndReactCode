@@ -29,7 +29,7 @@ And Extra Feature is to playing music in this projects.
 
 ## Screenshots
 
-- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/weeklyTest/images/Capture.JPG?raw=true)
+- ![App Screenshot](https://laljisingh.github.io/jsAndReactCode/weeklyTest/test20082023.html)
 
 
 # ********** **THANKS** *********
