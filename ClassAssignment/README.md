@@ -1,10 +1,10 @@
 
-# DRUM KIT 
+# Sample Java Script Projects 
 
 Fully Responsive Using HTML and CSS UI Designing
 And Java Script
 
-And Extra Feature is to playing music in this projects.
+
 
 - Project link :-  https://laljisingh.github.io/jsAndReactCode/weeklyTest/test20082023.html
 
@@ -21,10 +21,6 @@ And Extra Feature is to playing music in this projects.
 - HTML
 - CSS
 - Java Script
-- Google Font 
-- Music Playing System Included
-### Snapshot
-
 
 
 ## Screenshots

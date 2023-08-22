@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DOM 2 Manupulation</title>
+    <script src="./classAssignmentDOM2.js"></script>
+    <link rel="stylesheet" href="./classAssignmentDOM2.css">
+  </head>
+  <body>
+    <div class="maindiv" id="maindiv">Hello I am DIV Tag</div>
+    <br />
+    <br />
+    <table>
+        <tr>
+            <td>
+                <label for="select">Select Text Color</label>
+            </td>
+            <td>
+                <select name="color" id="color" onchange="textColor()">
+                    <option value="">select text color</option>
+                    <option value="red">Red</option>
+                    <option value="green">Green</option>
+                    <option value="yellow">Yellow</option>
+                    <option value="pink">Pink</option>
+                    <option value="cyan">Cyan</option>
+                  </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="select">Select Background Color</label>
+            </td>
+            <td>
+                <select name="bg-color" id="bg-color" onchange="backgroundFUnction()">
+                    <option value="">select background color</option>
+                    <option value="red">Red</option>
+                    <option value="green">Green</option>
+                    <option value="yellow">Yellow</option>
+                    <option value="pink">Pink</option>
+                    <option value="cyan">Cyan</option>
+                  </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="select">Select Padding</label>
+            </td>
+            <td>
+                <select name="paddin" id="padding" onchange="padding()">
+                    <option value="">select padding</option>
+                    <option value="0">0px</option>
+                    <option value="25">25px</option>
+                    <option value="50">50px</option>
+                    <option value="75">75px</option>
+                    <option value="100">100px</option>
+                  </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="select">Select Font Size</label>
+            </td>
+            <td>
+                <select name="font" id="font" onchange="font()">
+                    <option value="">select font size</option>
+                    <option value="10">10px</option>
+                    <option value="15">15px</option>
+                    <option value="20">20px</option>
+                    <option value="25">25px</option>
+                    <option value="30">30px</option>
+                  </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="select">Select Font Weight</label>
+            </td>
+            <td>
+                <select name="weight" id="weight" onchange="weight()">
+                    <option value="">select font weight</option>
+                    <option value="500">500</option>
+                    <option value="600">600</option>
+                    <option value="700">700</option>
+                    <option value="800">800</option>
+                    <option value="900">900</option>
+                  </select>
+            </td>
+        </tr>
+    </table>    
+  </body>
+</html>
