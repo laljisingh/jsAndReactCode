@@ -25,7 +25,7 @@ And Java Script
 
 ## Screenshots
 
-- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/weeklyTest/images/Capture.JPG?raw=true)
+- ![App Screenshot]([https://github.com/laljisingh/jsAndReactCode/blob/main/weeklyTest/images/Capture.JPG?raw=true](https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/ClassAssignment/Capture.JPG)https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/ClassAssignment/Capture.JPG)
 
 
 # ********** **THANKS** *********
