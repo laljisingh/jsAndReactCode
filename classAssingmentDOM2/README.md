@@ -115,7 +115,7 @@ This projects Have five function for like color, paddin, font size, background c
 
 ## Screenshots
 
-- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignment/Capture.JPG?raw=true)
+- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/classAssingmentDOM2/Capture.JPG?raw=true)
 
 
 # ********** **THANKS** *********
