@@ -12,7 +12,11 @@
 //   : weather === "rainy"
 //   ? console.log("rainy")
 //   : console.log("not fount");
-const ans = "lal.ji.singh";
-const arr=ans.split(" ");
-arr[1]="Chauhan";
-console.log(arr);
+
+console.log("helllo");
+setTimeout(function hello(){
+    console.log("bye bye");
+},5000);
+
+// hell();
+console.log("hii");
