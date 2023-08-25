@@ -39,7 +39,7 @@ This projects Have there are one Main Div and in this main div A Button which is
 
 ## Screenshots
 
- ![App Screenshot](https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/shapeColorChange/Capture.JPG)
+ ![App Screenshot](https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/colorChangeBackground/Capture.JPG)
 
 
 # ********** **THANKS** *********
