@@ -63,7 +63,7 @@ This projects Have there are two div first is main he is in a circle form and in
 
 ## Screenshots
 
-- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/classAssingmentDOM2/Capture.JPG?raw=true)
+ ![App Screenshot](https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/shapeColorChange/Capture.JPG)
 
 
 # ********** **THANKS** *********
