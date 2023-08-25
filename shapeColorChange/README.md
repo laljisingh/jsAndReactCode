@@ -5,7 +5,7 @@ And Java Script
 
 
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/classAssingmentDOM2/classignmentDOM2.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/shapeColorChange/index.html
 
 
 #### Website Section
