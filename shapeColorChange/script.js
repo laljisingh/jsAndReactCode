@@ -6,7 +6,10 @@ changeColor.addEventListener("click", () => {
   const r = Math.random() * 1000;
   const g = Math.random() * 150;
   const b = Math.random() * 500;
-  mainDiv.style.backgroundColor = `rgb(${r}, ${g}, ${b})`;
+
+  const randomColor = Math.floor(Math.random()*16777215).toString(16);
+
+  mainDiv.style.backgroundColor = `#${randomColor}`;
   circles.style.backgroundColor = mainDiv.style.backgroundColor;
 });
 

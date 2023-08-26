@@ -19,6 +19,8 @@ body{
     background-color: rgba(10, 58, 10, 0.945);
     border: none;
 }
+
+
 .main button:hover{
     padding: 15px 30px;
     font-size: 20px;
