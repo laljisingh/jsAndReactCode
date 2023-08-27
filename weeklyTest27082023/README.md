@@ -1,3 +1,28 @@
+# WhiteBoard Project 
+
+Whiteboad work as in real board its works as it same 
+
+
+## Screenshots
+
+
+
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/shapeColorChange/index.html
+
+ ![App Screenshot](https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/weeklyTest27082023/Capture.JPG)
+
+#### Website Section
+* Only One Section (Body)
+## Tools
+- VS Code
+- Git
+- Google Chrome
+## Language & Library
+- HTML
+- CSS
+- Java Script
+## function of JS (Code of Java Script)
+```
 const canvas = document.getElementById("board");
   const deleteButton = document.getElementById("deleteButton");
   const undoButton = document.getElementById("undoButton");
@@ -67,3 +92,15 @@ const canvas = document.getElementById("board");
     objects.push({ path });
     redrawCanvas();
   }
+```
+
+
+      
+- Explanation:-  
+This project was worked as mainly Three function 1st is drawing line in whileboard, and 2nd work is to undone the drawing line and 3rd work is to delete or clear the all whiteBoard in this project.
+   
+
+
+# ********** **THANKS** *********
+
+----------> [Lal ji Singh]
