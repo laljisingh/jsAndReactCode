@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #0c0c0c73;
+    font-family: Arial, sans-serif;
+  }
+
+  #board {
+    border: 20px solid #db0e9e;
+    background-color: #fff;
+    cursor: crosshair;
+    box-shadow: -1px -1px 8px 5px greenyellow;
+  }
+
+  #button-group {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+  }
+  button-group button{
+    padding: 10px 20px;
+    margin-bottom: 5px;
+    border: none;
+    font-size: 15px;
+    background-color: #107053;
+    color: #fff;
+    font-weight: 900;
+  }
+  .deleteButton{
+    padding: 10px 20px;
+    margin-bottom: 5px;
+    border: none;
+    font-size: 15px;
+    background-color: #790202;
+    color: #fff;
+    font-weight: 900;
+    border-radius: 5px;
+  }
+  .deleteButton:hover{
+    background-color: #055218;
+    color: #fff;
+  }
+  .undoButton{
+    padding: 10px 20px;
+    margin-bottom: 5px;
+    border: none;
+    font-size: 15px;
+    background-color: #045737;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: 900;
+  }
+  .undoButton:hover{
+    background-color: #790202;
+    color: #fff;
+  }
