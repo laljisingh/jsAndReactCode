@@ -5,11 +5,9 @@ Whiteboad work as in real board its works as it same
 
 ## Screenshots
 
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/weeklyTest27082023/index.html
 
-
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/shapeColorChange/index.html
-
- ![App Screenshot](https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/weeklyTest27082023/Capture.JPG)
+ ![App Screenshot](https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/weeklyTest27082023/Capture1.JPG)
 
 #### Website Section
 * Only One Section (Body)
