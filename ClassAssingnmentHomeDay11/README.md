@@ -1,12 +1,12 @@
 # Tips Finder Project 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/classAssingmentDOM2/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssingnmentHomeDay11/Capture.JPG?raw=true)
 
 Fully Responsive Using HTML and CSS UI Designing
 And Java Script
 
 
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/classAssingmentDOM2/classignmentDOM2.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssingnmentHomeDay11/index.html
 
 
 #### Website Section
