@@ -1,5 +1,5 @@
 # Tips Finder Project 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay12/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay12Class/Capture.JPG?raw=true)
       
 - ## Explanation:-  
 In this projects it is like a sticky notes type projects user can add over own notes with different color , thats all about my project overview, and all functionality are mentioned below--- 
@@ -9,7 +9,7 @@ And Java Script
 
 
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay12/countCharcter.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay12Class/textAdd.html
 
 
 #### Website Section
