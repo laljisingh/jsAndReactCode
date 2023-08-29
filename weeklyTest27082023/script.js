@@ -1,7 +1,8 @@
-const canvas = document.getElementById("board");
+  const canvas = document.getElementById("board");
   const deleteButton = document.getElementById("deleteButton");
   const undoButton = document.getElementById("undoButton");
   const context = canvas.getContext("2d");
+  
   let drawing = false;
   let objects = [];
   let tempPath = null;

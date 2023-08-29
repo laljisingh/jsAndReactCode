@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Day 11 Home Assignment</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body>
+    <div class="main">
+      <table>
+        <caption>Charles' Tip Calculator</caption>
+        <tr>
+          <td>
+            <label for="bill">How much was your bill?</label><br /><label
+              for="ee"
+              >Rs.</label
+            ><input type="bill" id="fee"/>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <label for="bill">How was your service?</label><br>
+            <select name="service" id="service">
+              <option disabled selected value="0">
+                ---Choose ans Option---
+              </option>
+              <option value="30">30%-OutStanding</option>
+              <option value="20">20%-Good</option>
+              <option value="15">15%-It was ok</option>
+              <option value="10">10%-Bad</option>
+              <option value="5">5%-Terrible</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label for="">How many people are sharing the bill?</label><br />
+            <input type="bill" id="partner"/><label for="part">People?</label>
+          </td>
+        </tr>
+        <tr>
+            <td>
+                <button class="btn" id="btn">Calculate</button>
+            </td>
+        </tr>
+      </table>
+      <div class="result" id="result">
+        <p class="paragraph" id="paragraph"></p>
+        <p class="resultAmount" id="resultAmount"></p>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>
