@@ -45,9 +45,6 @@ btn.addEventListener("click",()=>{
 ```
 
 
-   
-
-## Screenshots
 
 
 
