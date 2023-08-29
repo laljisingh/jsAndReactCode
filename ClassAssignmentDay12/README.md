@@ -1,5 +1,5 @@
 # Tips Finder Project 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentKeyPressClasss11/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay12/Capture.JPG?raw=true)
       
 - ## Explanation:-  
 In this projects it is a real time character counter if user can type more than or equal to its defined or limit value then in this text area stop the accepting the character, this is the project and i am also attaching a screen shot of projects and all functionality are mentioned below--- 
@@ -9,7 +9,7 @@ And Java Script
 
 
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentKeyPressClasss11/ClassAssignmentKeyPress.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay12/countCharcter.html
 
 
 #### Website Section
