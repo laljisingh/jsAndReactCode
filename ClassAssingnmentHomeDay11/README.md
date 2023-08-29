@@ -1,7 +1,11 @@
 # Tips Finder Project 
  ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssingnmentHomeDay11/Capture.JPG?raw=true)
+      
+- ## Explanation:-  
+This projects Have functionality to find the tips for waiters, and it is also divide the money accouding to participated Friends/ family,
+It is Very easy to use for finding the Tips!!!
 
-Fully Responsive Using HTML and CSS UI Designing
+- Fully Responsive Using HTML and CSS UI Designing
 And Java Script
 
 
@@ -41,10 +45,6 @@ btn.addEventListener("click",()=>{
 ```
 
 
-      
-- Explanation:-  
-This projects Have functionality to find the tips for waiters, and it is also divide the money accouding to participated Friends/ family,
-It is Very easy to use for finding the Tips!!!
    
 
 ## Screenshots
