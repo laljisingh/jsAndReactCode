@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: wheat;
+    padding: 50px;
+    
+}
+.parent{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 90%;
+    height: 80vh;
+    margin: 0px auto;
+}
+.main{
+    background-color: rgb(201, 25, 163);
+    width: 120px;
+    height: 90px;
+    display: flex;
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 15px 5px;
+    text-transform: capitalize;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+}
