@@ -39,7 +39,7 @@ click.addEventListener("mouseover",()=>{
 
 ## Screenshots
 
- ![App Screenshot](https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/colorChangeBackground/Capture.JPG)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay13Class/Capture.JPG?raw=true)
 
 
 # ********** **THANKS** *********
