@@ -1,6 +1,9 @@
 # Sample Java Script Projects [Mini Calender]
 
 Fully Responsive Using HTML and CSS UI Designing
+## Screenshots
+
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay13Home/Capture.JPG?raw=true)
 And Java Script
 
 
@@ -47,9 +50,6 @@ dy.innerText = date.toLocaleString("en", {
 
    
 
-## Screenshots
-
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay13Home/Capture.JPG?raw=true)
 
 
 # ********** **THANKS** *********
