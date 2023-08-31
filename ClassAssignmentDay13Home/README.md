@@ -52,4 +52,4 @@ dy.innerText = date.toLocaleString("en", {
 
 
 
-# ********** **THANKS** *********
+# ********** **THANK YOU** *********
