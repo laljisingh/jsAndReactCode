@@ -8,7 +8,7 @@ And Java Script
 - Explanation:-  
 This projects Have there are one Main Div and in this main div another div like in this div showing a like mini calender and in this calender month name and week day name and date, and in last showing Year like 2023 , this is my projects assigned to me .
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay13Class/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay13Home/index.html
 
 
 #### Website Section
