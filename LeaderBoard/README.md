@@ -1,3 +1,28 @@
+# Sample Java Script Projects 
+
+Fully Responsive Using HTML and CSS UI Designing
+And Java Script[Leader Board]
+
+
+
+## Screenshots
+
+ ![App Screenshot](https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/shapeColorChange/Capture.JPG)
+
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/shapeColorChange/index.html
+
+
+#### Website Section
+* Main Or Body
+## Tools
+- VS Code
+- Google Chrome
+## Language & Library
+- HTML
+- CSS
+- Java Script
+## function of JS
+ ```
 const button = document.getElementById("button");
 console.log(button);
 button.addEventListener("click", () => {
@@ -90,3 +115,14 @@ function deleteElement() {
   });
 }
 
+
+```
+
+
+      
+- Explanation:-  
+In This projects Generate a leader board , in this project high score player comes in first position, and low score player comes in down position, if any input value are not filled by user then user are not eligible to add its data, so this is my projects 
+   
+
+
+# ********** **THANKS** *********

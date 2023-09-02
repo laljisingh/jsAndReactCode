@@ -65,7 +65,7 @@
     width: 70%;
     justify-content: space-evenly;
     margin: 10px;
-    box-shadow: 5px 2px 5px 1px black;
+    box-shadow: 5px 2px 5px 1px rgb(235, 118, 118);
 }
 .scoreBoard p{
     color: rgb(32, 8, 99);
@@ -79,6 +79,15 @@
     padding: 8px 15px;
     border: none;
     background-color: teal;
+}
+.scoreBoard p button:hover{
+    border-radius: 5px;
+    font-size: 15px;
+    color: rgb(245, 244, 244);
+    padding: 8px 15px;
+    border: none;
+    transform: scale(1.1);
+    background-color: rgb(233, 27, 27);
 }
 #result{
     display: flex;
