@@ -7,9 +7,9 @@ And Java Script[Leader Board]
 
 ## Screenshots
 
- ![App Screenshot](https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/shapeColorChange/Capture.JPG)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/LeaderBoard/Capture.JPG?raw=true)
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/shapeColorChange/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/LeaderBoard/leaderBoard.html
 
 
 #### Website Section
