@@ -4,7 +4,9 @@ button.addEventListener("click", ()=>{
     const fname = document.getElementById("fname");
     const lname = document.getElementById("lname");
     const country = document.getElementById("country");
-    const score = document.getElementById("score");
+    let score = document.getElementById("score");
+
+
 
     const scoreBoard = document.createElement("div");
     scoreBoard.classList.add("scoreBoard");
@@ -14,9 +16,17 @@ button.addEventListener("click", ()=>{
     <p class ="coutry">${country.value}<p>
     <p class ="score">${score.value}<p>
     <p class ="deleteIcon"><button>&#x1f5d1;</button><p>
+    <p><button id="scoreUp">+5</button>
+    <button id="scoreDown">-5</button></p>
     `;
     const result = document.getElementById("result");
     result.appendChild(scoreBoard);
+
+    const scoreUp = document.getElementById("scoreUp");
+    scoreUp.addEventListener("click",()=>{
+      let sc=document.getElementsByClassName("score");
+      sc= score.value + 5;
+    });
 
     fname.value = "";
     lname.value = "";
@@ -69,5 +79,7 @@ function deleteElement(){
     })
     // console.log(deleteElement);
 }
+
+const scoreUp = document.getElementById("scoreUp");
 
 deleteElement();
