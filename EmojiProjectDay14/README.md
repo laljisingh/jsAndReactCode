@@ -8,7 +8,7 @@ And Java Script[Emoji Projects]
  ![App Screenshot](https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/colorChangeBackground/Capture.JPG)
 
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/colorChangeBackground/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/EmojiProjectDay14/emoji.html
 
 
 - Explanation:-  
