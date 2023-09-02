@@ -5,7 +5,7 @@ And Java Script[Emoji Projects]
 
 ## Screenshots
 
- ![App Screenshot](https://raw.githubusercontent.com/laljisingh/jsAndReactCode/main/colorChangeBackground/Capture.JPG)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/EmojiProjectDay14/Capture.JPG?raw=true)
 
 
 - Project link :-  https://laljisingh.github.io/jsAndReactCode/EmojiProjectDay14/emoji.html
