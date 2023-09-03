@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(175, 168, 172, 0.486) !important;
+    width: 100%;
+    height: 200vh;
+}
+nav{
+    background-color: rgb(173, 180, 180) !important;
+}
+.navbar{
+    top: 0;
+    position: sticky !important; 
+}
+.navbar-brand{
+    font-size: 30px !important;
+    font-weight: 800;
+    color: rgb(20, 20, 20) !important;
+    text-shadow: 2px 2px 5px  red;
+}
+.nav-item-all{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    height: 20%;
+    justify-content: space-evenly;
+    /* background-color: aqua; */
+}
+.nav-item-all a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(190, 23, 23);
+}
+.nav-item-all a:hover{
+    transform: scale(1.3);
+    color: blue;
+}
+.search-bar{
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 5rem;
+    background-color: rgb(221, 167, 208);
+    /* border: 1px solid brown; */
+}
+h01{
+    background-color: aquamarine;
+    padding: 10px 5px;
+}
+.search-bar input{
+    width: 25%;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    border: 1px solid rgb(65, 187, 41);
+    padding-inline:  10px 15px;
+    box-shadow: inset 1px 1px 2px 1px gray;
+}
+.search-bar input::placeholder{
+    color: rgb(37, 35, 37);
+}
+.search-bar button{
+    border: none;
+    padding: 7px 15px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 2px 1px rgba(95, 81, 81, 0.486);
+    background-color: yellowgreen;
+    color: white;
+    font-weight: 600;
+}
+.search-bar button:hover{
+    background-color: brown;
+}
+.result-bar{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.left{
+    width: 20%;
+    height: 100vh;
+    padding: 0px 0px;
+    /* background-color: blueviolet; */
+}
+.right{
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: 80%;
+    margin: 10px 0px;
+    z-index: -1;
+}
