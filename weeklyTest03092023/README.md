@@ -8,7 +8,7 @@ in this projects i am desigining UI Part only as it shown in screenshot
 
 ## Screenshots
 
-![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/weeklyTest/images/Capture.JPG?raw=true)
+![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/weeklyTest03092023/Capture.JPG?raw=true)
 
 - Project link :-  https://laljisingh.github.io/jsAndReactCode/weeklyTest03092023/index.html
 
