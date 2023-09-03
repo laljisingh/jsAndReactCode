@@ -1,9 +1,9 @@
-# Sample Java Script Projects [Mini Calender]
+# Sample Java Script Projects [StopWatch]
 
 Fully Responsive Using HTML and CSS UI Designing
 ## Screenshots
 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay13Home/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/StopWatchAssignment/Capture.JPG?raw=true)
 And Java Script
 
 
@@ -11,7 +11,7 @@ And Java Script
 - Explanation:-  
 This projects i have designed stopwatch and this stopwatch works perfectly looks like as a original stopwatch, becouse in here i am designed three buttons like -> Start, Stop, Restart, and these buttons are worked perfectly, so this is my stop watch projects
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay13Home/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/StopWatchAssignment/index.html
 
 
 #### Website Section
