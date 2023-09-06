@@ -1,3 +1,30 @@
+# Sample Java Script Projects [Mini Calender]
+
+Fully Responsive Using HTML and CSS UI Designing [Digit Clock]
+## Screenshots
+
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/GitHubFinder/Capture.JPG?raw=true)
+And Java Script
+
+
+      
+- Explanation:-  
+It is just simpli display the clock in the form of Digital Clock
+
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/GitHubFinder/index.html
+
+
+#### Website Section
+* Main Or Body
+## Tools
+- VS Code
+- Google Chrome
+## Language & Library
+- HTML
+- CSS
+- Java Script
+## function of JS
+```
 const hourEl = document.getElementById("hour");
 const minuteEl = document.getElementById("minutes");
 const secondEl = document.getElementById("seconds");
@@ -28,3 +55,11 @@ function clock() {
 }
 
 clock();
+```
+
+
+   
+
+
+
+# ********** **THANK YOU** *********
