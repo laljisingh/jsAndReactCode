@@ -1,3 +1,30 @@
+# Sample Java Script Projects [Mini Calender]
+
+Fully Responsive Using HTML and CSS UI Designing [GITHUB FINDER]
+## Screenshots
+
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay13Home/Capture.JPG?raw=true)
+And Java Script
+
+
+      
+- Explanation:-  
+This projects is very helpfull for finding users of github, if you can enterany particular user name then it will be finds the particuar result in your screen,else it will not finding any result then showing a error user not found in the screen, and if you try to search find the as a blank user then this projects display the all data or users profiles
+
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay13Home/index.html
+
+
+#### Website Section
+* Main Or Body
+## Tools
+- VS Code
+- Google Chrome
+## Language & Library
+- HTML
+- CSS
+- Java Script
+## function of JS
+```
 const searchBar = document.getElementById("searchbar");
 const searchButton = document.getElementById("SearchButton");
 const getAllUsers = document.getElementById("getAllUsers");
@@ -85,3 +112,11 @@ getAllUsers.addEventListener("click", (e) => {
 });
 
 getUser();
+```
+
+
+   
+
+
+
+# ********** **THANK YOU** *********

@@ -67,11 +67,10 @@
   }
   
   #cardContainer div {
-    /* border-bottom: 2px solid red;
-      border-right: 2px solid red; */
+    width: 550px;  
     margin: 2rem;
     padding: 1rem;
-    box-shadow: 3px 3px 10px black;
+    box-shadow: 3px 3px 10px rgb(15, 196, 75);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -93,7 +92,17 @@
     font-size: 0.8rem;
     margin-top: 1rem;
   }
-  
+  table{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  table tr td{
+    margin: 0px 35px;
+    padding: 0px 50px;
+  }
+
   h2 {
     margin-top: 1rem;
   }
