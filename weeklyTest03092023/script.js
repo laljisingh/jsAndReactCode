@@ -1,7 +1,11 @@
 const btn = document.getElementById("search-button");
 const hotels = [];
 
-btn.addEventListener("click", () => {
+const getHotel = ()=>{
+  
+
+
+// btn.addEventListener("click", () => {
   const url = fetch("https://indianhotels.free.beeceptor.com/gethotels");
   url
     .then((ele) => {
@@ -36,7 +40,7 @@ btn.addEventListener("click", () => {
                  `;
                  result_bar.appendChild(card);
   });
-});
+};
 
-
+getHotel();
 
