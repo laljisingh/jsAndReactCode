@@ -100,8 +100,10 @@ h01{
     align-items: center;
 }
 
-.card{
+.cards{
+    margin: 100px;
     width: 80%;
+    border: 1px solid green;
     margin: 10px 0px;
     z-index: -1;
 }
