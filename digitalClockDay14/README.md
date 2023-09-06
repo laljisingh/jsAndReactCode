@@ -3,7 +3,7 @@
 Fully Responsive Using HTML and CSS UI Designing [Digit Clock]
 ## Screenshots
 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/GitHubFinder/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/digitalClockDay14/Capture.JPG?raw=true)
 And Java Script
 
 
