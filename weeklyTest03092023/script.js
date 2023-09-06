@@ -16,6 +16,7 @@ btn.addEventListener("click", () => {
 
   const result_bar = document.getElementById("right");
   
+  
   hotels.map((data) => {
     const card = document.createElement("div");
     card.classList.add("cards");
