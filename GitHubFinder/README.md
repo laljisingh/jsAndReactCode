@@ -11,7 +11,7 @@ And Java Script
 - Explanation:-  
 This projects is very helpfull for finding users of github, if you can enterany particular user name then it will be finds the particuar result in your screen,else it will not finding any result then showing a error user not found in the screen, and if you try to search find the as a blank user then this projects display the all data or users profiles
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay13Home/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/GitHubFinder/index.html
 
 
 #### Website Section
