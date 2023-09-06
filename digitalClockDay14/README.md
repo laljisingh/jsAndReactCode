@@ -11,7 +11,7 @@ And Java Script
 - Explanation:-  
 It is just simpli display the clock in the form of Digital Clock
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/GitHubFinder/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/digitalClockDay14/index.html
 
 
 #### Website Section
