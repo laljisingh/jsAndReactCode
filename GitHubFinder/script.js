@@ -1,6 +1,7 @@
 const searchBar = document.getElementById("searchbar");
 const searchButton = document.getElementById("SearchButton");
 const getAllUsers = document.getElementById("getAllUsers");
+console.log(getAllUsers);
 const cardContainer = document.getElementById("cardContainer");
 
 function getUser(searchValue) {
@@ -63,8 +64,7 @@ function getUser(searchValue) {
            
            card.appendChild(img);
            card.appendChild(heading);
-           card.appendChild(tables)   
-        //   card.appendChild(table);
+           card.appendChild(tables)  
           card.appendChild(link);
           cardContainer.appendChild(card);
         }
