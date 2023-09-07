@@ -1,15 +1,15 @@
 # Sample Java Script Projects [Mini Calender]
 
-Fully Responsive Using HTML and CSS UI Designing [Digit Clock]
+Fully Responsive Using HTML and CSS UI Designing [Image Gallery]
 ## Screenshots
 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/digitalClockDay14/Capture.JPG?raw=true)
-And Java Script
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/HomeAssignmentDay15/Capture.JPG?raw=true)
+
 
 
       
 - Explanation:-  
-It is just simpli display the clock in the form of Digital Clock
+This projects is a just simle image search or filter web application, and it is provide a image gallery when user click the _more image_ then calling an api and load the lots of image in web page, so this is my simple project for Image gallery 
 
 - Project link :-  https://laljisingh.github.io/jsAndReactCode/HomeAssignmentDay15/index.html
 
