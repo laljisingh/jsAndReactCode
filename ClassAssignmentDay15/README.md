@@ -11,7 +11,7 @@ Fully Responsive Using HTML and CSS UI Designing [Random Image generator]
 - Explanation:-  
 In this project there was a button whose name is _generate random image_ then showing a random image of car [means call an api when click the button] this functionality i was used.
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/HomeAssignmentDay15/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay15/index.html
 
 
 #### Website Section
