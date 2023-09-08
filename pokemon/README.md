@@ -1,9 +1,9 @@
-# Sample Java Script Projects [Random Image]
+# Sample Java Script Projects [Pokemon search App]
 
-Fully Responsive Using HTML and CSS UI Designing [Random Image generator]
+Fully Responsive Using HTML and CSS UI Designing [Pokemon Search App]
 ## Screenshots
 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay15/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/pokemon/Capture.JPG?raw=true)
 
 
 
