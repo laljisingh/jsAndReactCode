@@ -1,3 +1,30 @@
+# Sample Java Script Projects [Random Image]
+
+Fully Responsive Using HTML and CSS UI Designing [Random Image generator]
+## Screenshots
+
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay15/Capture.JPG?raw=true)
+
+
+
+      
+- Explanation:-  
+This project was based on Pokemon API here when page load then all pokemon are showing in the windown screen , if user needs to filter the pokemon then users needs to enter the some keywords relared to pokemon then, resultant are showing only matched pokemon if user need to show all pokemon then user click on the Reset button and the result is to showed all pokemon on screen , if searched pokemon are not available in the api then it will return a message pokemon are not available, 
+
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay15/index.html
+
+
+#### Website Section
+* Main Or Body
+## Tools
+- VS Code
+- Google Chrome
+## Language & Library
+- HTML
+- CSS
+- Java Script
+## function of JS
+```
 // console.log("logg");
 
 // console.log(searchBar.value);
@@ -111,3 +138,10 @@ fetchPokemonDetails();
 // selfCall();
 
 
+
+```
+
+
+
+
+# ********** **THANK YOU** *********
