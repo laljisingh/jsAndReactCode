@@ -1,9 +1,9 @@
 # Sample Java Script Projects [Auto text Save]
 
-Fully Responsive Using HTML and CSS UI Designing [RAuto Text Save]
+Fully Responsive Using HTML and CSS UI Designing [Auto Text Save]
 ## Screenshots
 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay15/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay16Home/Capture.JPG?raw=true)
 
 
 
@@ -11,7 +11,7 @@ Fully Responsive Using HTML and CSS UI Designing [RAuto Text Save]
 - Explanation:-  
 In this project, I am utilizing the browser's local storage as a storage space. I use this storage to store the typed values. If there is any value present in the local storage, it will be displayed in the text area space. Furthermore, if a user attempts to type new text, it will be concatenated with both the typed value and the value stored in local storage. This is the essence of my project.
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay15/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay16Home/index.html
 
 
 #### Website Section
