@@ -11,7 +11,7 @@ Fully Responsive Using HTML and CSS UI Designing [Random Image generator]
 - Explanation:-  
 This project was based on Pokemon API here when page load then all pokemon are showing in the windown screen , if user needs to filter the pokemon then users needs to enter the some keywords relared to pokemon then, resultant are showing only matched pokemon if user need to show all pokemon then user click on the Reset button and the result is to showed all pokemon on screen , if searched pokemon are not available in the api then it will return a message pokemon are not available, 
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay15/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/pokemon/index.html
 
 
 #### Website Section
