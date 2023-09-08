@@ -3,7 +3,7 @@
 Fully Responsive Using HTML and CSS UI Designing [Saved User Information In LocalStorage]
 ## Screenshots
 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay16Home/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay16Class/Capture.JPG?raw=true)
 
 
 
@@ -11,7 +11,7 @@ Fully Responsive Using HTML and CSS UI Designing [Saved User Information In Loca
 - Explanation:-  
 In this project, I am utilizing the browser's local storage as a storage space. In this project, I collect data from the user, create an object, and subsequently save this object in local storage. Afterward, I retrieve the data from local storage and display the output on the browser's screen.
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay16Home/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay16Class/index.html
 
 
 #### Website Section
