@@ -1,9 +1,9 @@
-# Sample Java Script Projects [Mini Calender]
+# Sample Java Script Projects [Random Image]
 
 Fully Responsive Using HTML and CSS UI Designing [Random Image generator]
 ## Screenshots
 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/HomeAssignmentDay15/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay15/Capture.JPG?raw=true)
 
 
 
