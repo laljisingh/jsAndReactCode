@@ -3,7 +3,7 @@
 Fully Responsive Using HTML and CSS UI Designing [Calender]
 ## Screenshots
 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/HomeAssignmentDay15/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/WeeklyTest10-09-2023/Capture.JPG?raw=true)
 
 
 
@@ -11,7 +11,7 @@ Fully Responsive Using HTML and CSS UI Designing [Calender]
 - Explanation:-  
 The project is named "Real-time Calendar." In this calendar, it displays the current date. If a user needs to select a specific date, they can enter the date in a text box, and those dates will be highlighted in the calendar. Additionally, in this calendar, users can navigate to past and present dates, along with their corresponding days. This is my project. 
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/HomeAssignmentDay15/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/WeeklyTest10-09-2023/index.html
 
 
 #### Website Section
