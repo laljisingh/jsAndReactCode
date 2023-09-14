@@ -40,7 +40,7 @@ fetch(apiUrl, requestOptions)
     if(responseData.message === "User authenticated successfully."){
         console.log();
         alert(responseData.message);
-        window.location.href = "dashboard.html";
+        window.location.href = "dashBoard.html";
     }else{
         alert(responseData.message);
         window.location.href = "loginPage.html";
