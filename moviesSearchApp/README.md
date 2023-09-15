@@ -3,7 +3,7 @@
 Fully Responsive Using HTML and CSS UI Designing [Movies Search App]
 ## Screenshots
 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/HomeAssignmentDay15/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/moviesSearchApp/Capture.JPG?raw=true)
 
 
 
@@ -11,7 +11,7 @@ Fully Responsive Using HTML and CSS UI Designing [Movies Search App]
 - Explanation:-  
 This project is based on JavaScript programming, and we are calling an API provided by the TMDB website as a public API. In this project, we are designing a user-friendly UI and implementing the API to display all available movies. Users can also search/filter movies by keywords. If no results are found, a message indicating 'No results found' will be displayed.
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/HomeAssignmentDay15/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/moviesSearchApp/index.html
 
 
 #### Website Section
