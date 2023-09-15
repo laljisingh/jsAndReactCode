@@ -32,7 +32,6 @@ fetch(apiUrl, requestOptions)
   .then((response) => {
       if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);
-          document.getElementById("error").innerText = "something wrong";
         }
         return response.json(); // Parse the JSON response
   })
