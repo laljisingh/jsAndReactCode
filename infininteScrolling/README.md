@@ -3,7 +3,7 @@
 Fully Responsive Using HTML and CSS UI Designing [Infinite Scrolling]
 ## Screenshots
 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/HomeAssignmentDay15/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/infininteScrolling/Capture.JPG?raw=true)
 
 
 
@@ -11,7 +11,7 @@ Fully Responsive Using HTML and CSS UI Designing [Infinite Scrolling]
 - Explanation:-  
 This project is based on a scrolling criteria where, as the user scrolls down, additional content is loaded. In my project, when the user scrolls down, it loads extra images. The project is implemented in JavaScript. This is a brief introduction to my project.
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/HomeAssignmentDay15/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/infininteScrolling/index.html
 
 
 #### Website Section
