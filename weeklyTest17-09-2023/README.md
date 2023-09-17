@@ -1,3 +1,32 @@
+# Sample Java Script Projects [Voice Assistance]
+
+Fully Responsive Using HTML and CSS UI Designing [Voice Assistance]
+## Screenshots
+
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/WeeklyTest10-09-2023/Capture.JPG?raw=true)
+
+
+
+      
+## Explanation:-  
+This project is centered around text-to-voice assistance. I've created the user interface using HTML and CSS, and for interaction, I'm utilizing JavaScript. The interface displays 10-12 pictures on the screen, each accompanied by some text. When users click on these pictures or cards, a voice assistant plays a sound associated with each one.
+
+In this project, I've also added some extra features. These include a voice assistant changer, allowing users to modify the voice of the assistant. Additionally, users can check a text using a toggle button. When the user clicks this button, an input box opens in a pop-up with a text area and a button for playing sounds. This provides a brief overview of my project.
+
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/WeeklyTest10-09-2023/index.html
+
+
+#### Website Section
+* Main Or Body
+## Tools
+- VS Code
+- Google Chrome
+## Language & Library
+- HTML
+- CSS
+- Java Script
+## function of JS
+```
 const textData = [
   {
       text: "I'm Thirsty",
@@ -108,15 +137,18 @@ function setVoice(e) {
 toggleButton.addEventListener("click", () => {
   document.getElementById("text-box").classList.toggle("show");
 });
+
 closeButton.addEventListener("click", () => {
   document.getElementById("text-box").classList.remove("show");
 });
+
 speechSynthesis.addEventListener("voiceschanged", voiceGetting);
 selectVoice.addEventListener("change", setVoice);
 readTextbutton.addEventListener("click", () => {
   setTextMessage(textarea.value);
   speakText();
 });
+
 
 voiceGetting();
 
@@ -144,3 +176,7 @@ voiceGetting();
 //     // The Web Speech API is not supported
 //     alert('Text-to-speech is not supported in this browser.');
 // }
+```
+
+
+# ********** **THANK YOU** *********
