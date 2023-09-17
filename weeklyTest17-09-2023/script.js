@@ -1,58 +1,58 @@
 const main = document.querySelector("main");
-const voicesSelect = document.getElementById("voices");
+const selectVoice = document.getElementById("voices");
 const textarea = document.getElementById("text");
-const readButton = document.getElementById("read");
+const readTextbutton = document.getElementById("read");
 const toggleButton = document.getElementById("toggle");
 const closeButton = document.getElementById("close");
 
-const data = [
+const textData = [
   {
-    image: "drink",
-    text: "I'm Thirsty",
+      text: "I'm Thirsty",
+      image: "drink",
   },
   {
-    image: "food",
-    text: "I'm Hungry",
+      text: "I'm Hungry",
+      image: "food",
   },
   {
-    image: "tired",
-    text: "I'm Tired",
+      text: "I'm Tired",
+      image: "tired",
   },
   {
-    image: "hurt",
-    text: "I'm Hurt",
+      text: "I'm Hurt",
+      image: "hurt",
   },
   {
-    image: "happy",
-    text: "I'm Happy",
+      text: "I'm Happy",
+      image: "happy",
   },
   {
-    image: "angry",
-    text: "I'm Angry",
+      text: "I'm Angry",
+      image: "angry",
   },
   {
-    image: "sad",
-    text: "I'm Sad",
+      text: "I'm Sad",
+      image: "sad",
   },
   {
-    image: "scared",
-    text: "I'm Scared",
+      text: "I'm Scared",
+      image: "scared",
   },
   {
-    image: "outside",
-    text: "I Want To Go Outside",
+      text: "I Want To Go Outside",
+      image: "outside",
   },
   {
-    image: "home",
-    text: "I Want To Go Home",
+      text: "I Want To Go Home",
+      image: "home",
   },
   {
-    image: "school",
-    text: "I Want To Go To School",
+      text: "I Want To Go To School",
+      image: "school",
   },
   {
-    image: "grandma",
-    text: "I Want To Go To Grandmas",
+      text: "I Want To Go To Grandmas",
+      image: "grandma",
   },
 ];
 
@@ -68,17 +68,17 @@ function createBox(item) {
   main.appendChild(box);
 }
 
-data.forEach(createBox);
+textData.forEach(createBox);
 
 let voices = [];
 
-function getVoices() {
-  voices = speechSynthesis.getVoices();
+function voiceGetting() {
+  voices = speechSynthesis.voiceGetting();
   voices.forEach((voice) => {
     const option = document.createElement("option");
     option.value = voice.name;
     option.innerText = `${voice.name} ${voice.lang}`;
-    voicesSelect.appendChild(option);
+    selectVoice.appendChild(option);
   });
 }
 
@@ -110,36 +110,36 @@ toggleButton.addEventListener("click", () => {
 closeButton.addEventListener("click", () => {
   document.getElementById("text-box").classList.remove("show");
 });
-speechSynthesis.addEventListener("voiceschanged", getVoices);
-voicesSelect.addEventListener("change", setVoice);
-readButton.addEventListener("click", () => {
+speechSynthesis.addEventListener("voiceschanged", voiceGetting);
+selectVoice.addEventListener("change", setVoice);
+readTextbutton.addEventListener("click", () => {
   setTextMessage(textarea.value);
   speakText();
 });
 
-getVoices();
+voiceGetting();
 
 
 
-if ('speechSynthesis' in window) {
-    const synthesis = window.speechSynthesis;
-    const input = document.getElementById('text-to-speech-input');
-    const button = document.getElementById('speak-button');
-    const output = document.getElementById('output');
+// if ('speechSynthesis' in window) {
+//     const synthesis = window.speechSynthesis;
+//     const input = document.getElementById('text-to-speech-input');
+//     const button = document.getElementById('speak-button');
+//     const output = document.getElementById('output');
 
-    // Event listener for the Speak button
-    button.addEventListener('click', () => {
-        const text = input.value;
-        if (text !== '') {
-            const utterance = new SpeechSynthesisUtterance(text);
-            synthesis.speak(utterance);
-            output.textContent = 'Speaking...';
-            utterance.onend = () => {
-                output.textContent = 'Speech complete.';
-            };
-        }
-    });
-} else {
-    // The Web Speech API is not supported
-    alert('Text-to-speech is not supported in this browser.');
-}
+//     // Event listener for the Speak button
+//     button.addEventListener('click', () => {
+//         const text = input.value;
+//         if (text !== '') {
+//             const utterance = new SpeechSynthesisUtterance(text);
+//             synthesis.speak(utterance);
+//             output.textContent = 'Speaking...';
+//             utterance.onend = () => {
+//                 output.textContent = 'Speech complete.';
+//             };
+//         }
+//     });
+// } else {
+//     // The Web Speech API is not supported
+//     alert('Text-to-speech is not supported in this browser.');
+// }
