@@ -3,7 +3,7 @@
 Fully Responsive Using HTML and CSS UI Designing [Voice Assistance]
 ## Screenshots
 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/WeeklyTest10-09-2023/Capture.JPG?raw=true)
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/weeklyTest17-09-2023/Capture.JPG?raw=true)
 
 
 
@@ -13,7 +13,7 @@ This project is centered around text-to-voice assistance. I've created the user 
 
 In this project, I've also added some extra features. These include a voice assistant changer, allowing users to modify the voice of the assistant. Additionally, users can check a text using a toggle button. When the user clicks this button, an input box opens in a pop-up with a text area and a button for playing sounds. This provides a brief overview of my project.
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/WeeklyTest10-09-2023/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/weeklyTest17-09-2023/index.html
 
 
 #### Website Section
