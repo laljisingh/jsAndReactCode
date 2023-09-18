@@ -97,6 +97,7 @@ nav a button {
 
 .topCoinMainContainer {
   /* border: 2px solid red; */
+  /* overflow:hidden; */
   height: 20vh;
   display: flex;
   flex-direction: column;
@@ -204,8 +205,19 @@ footer img {
   display: flex;
   height: 400px;
   width: 100%;
-  overflow-y: scroll;
+  
+ overflow: hidden;
+position:relative;
+animation:scroll 10s linear infinite;
+padding:3px;
 }
+.topcoinsCardContainer:hover {
+  animation-play-state: paused
+}
+@keyframes scroll{
+  0% {left:800px;}
+  100% {left:-800px;}
+  }
 
 .topcoinsCardContainer {
   /* border: 2px solid red; */
@@ -218,6 +230,7 @@ footer img {
   box-shadow: 2px 2px 3px grey;
   justify-content: space-around;
   align-items: center;
+
 }
 
 .topcoinsCardContainer img {

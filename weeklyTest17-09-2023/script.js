@@ -108,15 +108,18 @@ function setVoice(e) {
 toggleButton.addEventListener("click", () => {
   document.getElementById("text-box").classList.toggle("show");
 });
+
 closeButton.addEventListener("click", () => {
   document.getElementById("text-box").classList.remove("show");
 });
+
 speechSynthesis.addEventListener("voiceschanged", voiceGetting);
 selectVoice.addEventListener("change", setVoice);
 readTextbutton.addEventListener("click", () => {
   setTextMessage(textarea.value);
   speakText();
 });
+
 
 voiceGetting();
 
