@@ -3,9 +3,13 @@
 Fully Responsive Using HTML and CSS and Java Script UI Designing
 ## Screenshots
 
- ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/ClassAssignmentDay13Home/Capture.JPG?raw=true)
-And Java Script
+ ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/mctTest24092023/Capture.JPG?raw=true)
 
+  ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/mctTest24092023/Capture1.JPG?raw=true)
+
+   ![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/mctTest24092023/Capture2.JPG?raw=true)
+
+![App Screenshot](https://github.com/laljisingh/jsAndReactCode/blob/main/mctTest24092023/Capture3.JPG?raw=true)
 
       
 - Explanation:-  
