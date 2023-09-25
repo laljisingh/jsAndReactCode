@@ -12,7 +12,7 @@ And Java Script
 his project is based on a real-time movie search app similar to Netflix, IMDb, and many other websites that display essential details such as budgets, ratings, income, and more. This app serves as my movie search platform.
 On the main page, users can view all trending movies. If users want to see the details of a specific movie, they can search for their favorite movie. When a user clicks on a movie poster, they are directed to a movie details page. Here, users can explore the cast and get a brief overview of the movie. Additionally, users can discover similar movies on this page.
 
-- Project link :-  https://laljisingh.github.io/jsAndReactCode/ClassAssignmentDay13Home/index.html
+- Project link :-  https://laljisingh.github.io/jsAndReactCode/mctTest24092023/index.html
 
 
 #### Website Section
