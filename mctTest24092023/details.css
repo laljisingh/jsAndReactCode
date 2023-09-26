@@ -33,6 +33,16 @@ nav {
   width: 20%;
   height: 30px;
 }
+.fa-house{
+  padding: 0px 18px;
+  color: #ffcc00;
+  transition: 0.5s;
+}
+.fa-house:hover{
+  color: rgb(104, 230, 125);
+  transform: scale(1.5);
+}
+
 .main {
   width: 100%;
   height: auto;
